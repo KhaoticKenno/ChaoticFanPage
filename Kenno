@@ -1,0 +1,1344 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml">
+<head><script type="text/javascript" src="/static/js/analytics.js?v=1494891701.0" charset="utf-8"></script>
+
+<script type="text/javascript">archive_analytics.values.service='wb';archive_analytics.values.server_name='wwwb-app16.us.archive.org';archive_analytics.values.server_ms=378;</script>
+<script type="text/javascript" src="/static/js/wbhack.js?v=1494891701.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1494891701.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1494891701.0" />
+
+<!-- End Wayback Rewrite JS Include -->
+<title>Chaotic Trading Card Game – TCG - Free Online Play - Get Cards - Upload Codes</title>
+<meta release="2 0 18"/>
+<meta name="description" content="Chaotic is the revolutionary trading card game (TCG) community bringing together the on-air TV cartoon series, free online dueling in the Battledromes and in-person game play."/>
+<meta name="keywords" content="haotic,Cards,Online,TCG,Games,Cartoon,Codes,Dueling,Arena,Play"/>
+<!--accordion-content javascript-->
+<script type="text/javascript" src="/web/20110701163417js_/http://www.chaoticgame.com/Scripts/Prototype.js"></script>
+<script type="text/javascript" src="/web/20110701163417js_/http://www.chaoticgame.com/Scripts/effects.js"></script>
+<script type="text/javascript" src="/web/20110701163417js_/http://www.chaoticgame.com/Scripts/TCD_Accordion_Content.js"></script>
+<script type="text/javascript" src="/web/20110701163417js_/http://www.chaoticgame.com/Scripts/lightwindow.js"></script>
+<script type="text/javascript" src="/web/20110701163417js_/http://www.chaoticgame.com/Scripts/TCD_GUI.js"></script>
+
+<!--GUI form elements javascript-->
+<script type="text/javascript" src="/web/20110701163417js_/http://www.chaoticgame.com/Scripts/TCD_Checkboxes_All.js"></script>
+<script type="text/javascript" src="/web/20110701163417js_/http://www.chaoticgame.com/Scripts/TCD_Init.js"></script>
+
+<link href="/web/20110701163417cs_/http://www.chaoticgame.com/Styles/styles.css" rel="stylesheet" type="text/css"/><script language="javascript" type="text/javascript">
+function showLanguageSelection () {
+ myLightWindow.activateWindow({href:"/languageselection.aspx",width:480,height:551,title:"Choose your country and language"});
+}
+
+function showLearnPage () {
+ myLightWindow.activateWindow({href:"/../Learn/1/index.html",width:925,height:425,title:"Learn Chaotic"});
+}
+</script><!-- flash embed -->
+<script language="javascript">AC_FL_RunContent = 0;</script>
+<script language="javascript"> DetectFlashVer = 0; </script>
+<script src="/web/20110701163417js_/http://www.chaoticgame.com/Scripts/AC_RunActiveContent.js" language="javascript"></script>
+
+<script language="JavaScript" type="text/javascript">
+// -----------------------------------------------------------------------------
+// 	Globals for Flash
+// -----------------------------------------------------------------------------
+var requiredMajorVersion = 9; //------> Major version of Flash required
+var requiredMinorVersion = 0; //------> Minor version of Flash required
+var requiredRevision = 0; //----------> Revision of Flash required
+// -----------------------------------------------------------------------------
+</script>
+<script language="JavaScript">		// -----------------------------------------
+function ChangePage(asParams)
+{
+    
+      if (asParams == 'collect')
+         {
+                  window.location ='/Collection.aspx';         
+                  return;
+          }
+      if ( asParams == 'register' )
+         {
+            window.location ='/Registration.aspx';         
+              return;
+          }
+
+       if (asParams == 'build')
+     {
+          window.location ='/ArmyBuilder.aspx';     
+           return;
+          }
+       
+       if (asParams == 'centerOval')
+     {
+        window.location ='/Login.aspx';      
+         return;
+          }
+       
+ if (asParams == 'enterTheCode')
+     {
+        window.location ='/EnterTheCode.aspx';      
+         return;
+          }
+
+
+      if (asParams == 'trade')
+       {
+           window.location ='/Trade.aspx';    
+            return;
+          }
+       
+if ( asParams == 'portal')
+        {
+              window.open('/PortalTerminal.aspx');
+              return;
+           }
+
+if ( asParams == 'forum')
+        {
+            window.location ='/../forum/';
+              return;
+            }
+
+   if ( asParams == 'playNow')
+        {
+              window.location ='/Play.aspx';
+              return;
+          }
+ if ( asParams == 'league')
+        {
+             window.location ='/Play.aspx';
+               return;
+         }
+ if ( asParams == 'buyOnline')
+        {
+              window.open('https://web.archive.org/web/20110701163417/http://buycards.chaoticgame.com/');
+              return;
+           }
+ if ( asParams == 'parentControls')
+        {
+              window.location = '/ParentalControls.aspx';
+              return;
+           }
+ if ( asParams == 'personalStats')
+        {
+              window.location = '/PersonalStatistics.aspx';
+              return;
+           }
+  if ( asParams == 'editProfile')
+        {
+              window.location = '/Account-Profile.aspx';
+              return;
+           }
+
+if ( asParams == 'locate')
+        {
+              window.open('https://web.archive.org/web/20110701163417/http://www.tcdent.com/locations.php?type=2');
+              return;
+           }
+if ( asParams == 'tutorial')
+        {
+              window.open('/tutorial/index.html');
+              return;
+           }
+
+if ( asParams == 'rules')
+        {
+              window.open('/rules/index.html');
+              return;
+           }
+
+if ( asParams == 'patch')
+        {
+              window.location ='/patch-notes.aspx';
+              return;
+           }
+
+if ( asParams == 'accountSettings')
+        {
+              window.location = '/Account-Settings.aspx';
+              return;
+           }
+if ( asParams == 'accountStarterDeck')
+        {
+              window.location = '/Account-StarterDeck.aspx';
+              return;
+           }
+ if ( asParams == 'adminPage')
+        {
+             window.location ='/admin/Admin.aspx';
+               return;
+         }
+
+ if ( asParams == 'uploadCards')
+        {
+             window.location ='EnterTheCode.aspx';
+               return;
+         }
+
+if ( asParams == 'openForum')
+        {
+              window.open('/Forum/');
+              return;
+           }
+if ( asParams == 'rankings')
+        {
+              window.location='League.aspx';
+              return;
+           }
+if ( asParams == 'openRankings')
+        {
+              window.open('/League.aspx');
+              return;
+           }
+if ( asParams == 'openBuild')
+        {
+              window.open('/ArmyBuilder.aspx');
+              return;
+           }
+if ( asParams == 'download')
+        {
+              window.open('/Download.aspx');
+              return;
+           }
+if ( asParams == 'openDownload')
+        {
+              window.open('/Download.aspx');
+              return;
+           }
+
+        window.location = '/UnderConstructionPage.aspx';
+
+}
+
+
+// -----------------------------------------
+</script>
+<script type="text/javascript">
+               var gaJsHost = (("https:" == document.location.protocol) ? "https://web.archive.org/web/20110701163417/https://ssl./" : "https://web.archive.org/web/20110701163417/http://www./");
+               document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+                </script>
+               <script type="text/javascript">
+               var pageTracker = _gat._getTracker("UA-2647090-1");
+               pageTracker._initData();
+               pageTracker._trackPageview();
+</script><script language="javascript" type="text/javascript">
+function updateDraccoinTotal(newTotal)
+{
+ var draccoincount =  document.getElementById('new-draccoin-total');
+ if (draccoincount != null && draccoincount.innerHTML != '')
+ {
+  document.getElementById('draccoins-tooltip').innerHTML = draccoincount.innerHTML;
+  document.getElementById('draccoins-earned').innerHTML = draccoincount.innerHTML;
+ }
+}
+</script><script language="javascript" type="text/javascript">
+var Msg_Show = 'Show';
+var Msg_Hide = 'Hide';
+var Msg_EmailError = 'Invalid email address.';
+
+function HideMessage() 
+{
+  var msgTitle = document.getElementById('SysMsgTitle');
+  var showMsg = true;
+  if (msgTitle.style.display == 'none') {
+    showMsg = false;
+  }
+  try {
+    var callAjax = new loadXMLDoc('_MessageReceived.aspx','ShowMsg='+ showMsg, 'HideMsg', Message_HandlePageResults, Message_HandlePageError);
+    callAjax.sendRequest();
+  } 
+  catch (ex) {
+    Message_HandlePageResults('HideMsg');
+  }
+}
+
+function ResendEmail(msgType)
+{
+  var resendAddress = document.getElementById('ResendAddress'+msgType);
+  var resendEmail = null;
+  if (resendAddress != null) {
+    resendEmail = resendAddress.value;
+  }
+  try {
+  if (resendEmail != null && resendEmail != '') {
+    var callAjax = new loadXMLDoc('_MessageReceived.aspx','ResendEmail='+resendEmail+'&ResendMsgType='+msgType, 'Resend', Message_HandlePageResults, Message_HandlePageError);
+    callAjax.sendRequest();
+  } else {
+    var results = document.getElementById('ResendResult'+msgType);
+    if (results != null) {
+      results.innerHTML = Msg_EmailError;
+      results.style.color = 'red';
+    }
+  }
+  }
+  catch (ex) { 
+    var results = document.getElementById('ResendResult'+msgType);
+    if (results != null) {
+      results.innerHTML = "Not available on this page.";
+      results.style.color = 'red';
+    }
+  }
+}
+
+function Message_HandlePageResults(resultDest, results, params, ajaxObject) 
+{
+  if (resultDest == 'HideMsg') {
+  var msgTitle = document.getElementById('SysMsgTitle');
+  var showLink = document.getElementById('ShowMsgLink');
+  var msgContent = document.getElementById('SysMsgContent');
+  if (msgTitle != null && showLink != null && msgContent != null) {
+    if (msgTitle.style.display == 'none') {
+      msgTitle.style.display = 'inline';
+      msgContent.style.display = 'none';
+      showLink.innerHTML = Msg_Show;
+    } else {
+      msgTitle.style.display = 'none';
+      msgContent.style.display = 'inline';
+      showLink.innerHTML = Msg_Hide;
+    }
+  }
+  }
+  if (resultDest == "Resend") {
+    var msgType = getMsgType(params);
+    var resultLbl = document.getElementById('ResendResult' + msgType);
+    if (resultLbl!= null) {
+      var resultList = results.split('|');
+      if (resultList[0] == 'true' || resultList[0] == 'false') {
+        if (resultList[1] == '[ERROR_NOTVALIDEMAIL]') {
+          resultLbl.innerHTML = Msg_EmailError;
+        } else {
+          resultLbl.innerHTML = resultList[1];
+        }
+        if (resultList[0] == 'true') {
+          resultLbl.style.color = 'green';
+        } else {
+          resultLbl.style.color = 'red';
+        }
+      } else {
+        resultLbl.innerHTML = 'Invalid results';
+        resultLbl.style.color = 'red';
+      }
+    }
+  }
+}
+
+function Message_HandlePageError(resultDest, params, ajaxObject) 
+{
+  if (resultDest == "Resend") {
+    var msgType = getMsgType(params);
+    var resultLbl= document.getElementById('ResendResult' + msgType);
+    if (resultLbl!= null) {
+      resultLbl.innerHTML = 'Error sending request';
+      resultLbl.style.color = 'red';
+    }
+  }
+}
+
+function getMsgType(params)
+{
+  var msgTypePos = params.indexOf('ResendMsgType=');
+  if (msgTypePos >= 0) {
+    var msgType = params.substring(msgTypePos + 14);
+    return parseInt(msgType);
+  } else {
+    return 0;
+  }
+}
+</script><script language="javascript" type="text/javascript">
+var MegaRoar_PreLoad = 'Hello Chaotic® Beta Community!  Part 2 of the August season of the Online Battledrome Leagues has concluded.  It\'s time to announce the second August Battledrome League Reward Cards!  Also, remember, the new Starter Drome is now live!  Details can be found <A Href="https://web.archive.org/web/20110701163417/http://community.chaoticgame.com/forum/Topic2143707-5-1.aspx" target="_blank">here</A>.<br>\n<br>\nThese cards are part of the Battlegear giveaway.<br>\n<br>\n<b><center>The Part 2 August Battledrome League Participation Card is Phobia Plates!<br>\n<br>\n<IMG src="https://web.archive.org/web/20110701163417/http://download.chaoticgame.com/ChaoticGame2/Images/FullCard/1023_ENG.png"><br>\n<br>\nThe Part 2 August Battledrome League Prize Card is Xerium Armor!<br>\n<br>\n<IMG src="https://web.archive.org/web/20110701163417/http://download.chaoticgame.com/ChaoticGame2/Images/FullCard/1505_ENG.png"></center></b><br>\n<br>\nThe Oron Drome\'s format for the 1st September season is 3v3 Master Rule matches - all sets allowed.<br>\n<ul><li><b>Beta Drome</b>: (unchanged):  \n<ul><li>1v1/3v3/6v6 Advanced Apprentice and Master Rules\n<li>All sets allowed</ul></li>\n<li><b>Hotekk Drome</b> (unchanged): \n<Ul><li>3v3 Advanced Apprentice\n<li>All sets allowed</ul></li>\n<li><b>Starter Drome</b>:\n<ul><li>3v3 Advanced Apprentice\n<li>All cards disabled except for the ones contained in the Year 3 Starter Decks - details found <A Href="https://web.archive.org/web/20110701163417/http://community.chaoticgame.com/forum/Topic2143707-5-1.aspx" target="_blank">by clicking here</A>.</ul></li>\n<li><b>Oron Drome</b>:\n<ul><li>3v3 Master Rules\n<li>All sets allowed</ul></li>\n<li><b>Crellan Drome</b> (unchanged):\n<ul><li>6v6 Master Rules\n<li>All sets allowed</ul></li></ul></li><br>\nHere is how the Battledrome League Rewards break down for the 2nd August season:<br>\n<br>\n<b>Battledrome Prizes for Part 2 August 2010:</b><br>\n<ul><li>Top 10 Players: Random Ultra Rare card\n<li>Top 20% of Players: Xerium Armor (Includes the Top 10 Players)\n<li>Top 21-40% of Players: Random Super Rare card\n<li>Top 41-70% of Players: Random Rare card\n<li>Bottom 30% of Players: Random Common or Uncommon card\n<li>Participation Card: Phobia Plates</ul></li><br>\nWith the new shorter League Seasons, you now have to play a total of <b>10 cumulative games in a two week season</b> to receive the Participation card (these games can be in any and all Dromes).  For the Prize cards, you now have to play <b>10 games</b> during the current two week season <b>in the ranked Dromes</b> to qualify.  For example, to qualify for the Prize cards in the Hotekk Drome, you have to play 10 games in the Hotekk Drome, and so on.  The Part 2 August Battledrome League Reward cards will all be given out by the end of the week at the latest!<br>\n<br>\nRemember, the Online Battledrome seasons have been shortened to a duration of two weeks!  This will give you all more chances to win the online prizes in each season, as well as prevent the Leaderboards from being "stuck".  This new change should make watching the Leaderboards for each Drome even more exciting than before!<br>\n<br>\nIn addition to this, we\'re offering special "themed" cards for each period\'s Prize and Participation cards over the next few months.<br>\n<br>\nHere is the schedule of the Online Battledrome League Seasons through September 6th, 2010.  The theme for each season will be reflected in the Top 20% Prize and Participation cards.<br>\n<br>\n<ul><li>5/4 - 5/17: OverWorld Creature giveaway <b><i>COMPLETED</b></i>\n<li>5/18 - 5/31: Attack giveaway <b><i>COMPLETED</b></i>\n<li>6/1 - 6/14: UnderWorld Creature giveaway <b><i>COMPLETED</b></i>\n<li>6/15 - 6/28: Mugic giveaway <b><i>COMPLETED</b></i>\n<li>6/29 - 7/12: Danian Creature giveaway <b><i>COMPLETED</b></i>\n<li>7/13 - 7/26: Location giveaway <b><i>COMPLETED</b></i>\n<li>7/27 - 8/9: Mipedian Creature giveaway <b><i>COMPLETED</b></i>\n<li>8/10 - 8/23: Battlegear giveaway <b><i>COMPLETED</b></i>\n<li>8/24 - 9/6: M\'arrilian Creature giveaway <b><i>IN PROGRESS</b></i></ul></li><br>\nWe hope you enjoy the new shortened seasons!<br>\n<br>\nThe Disabled Card List stays the same with this update.<br>\n<br>\n<b>Current Disabled Card List</b><br>\n<ul><li><b>Beta Drome</b>: <i>Advanced Apprentice and Master Rules Armies</i>\n<ul><li>All cards are playable</ul></li><li><b>Hotekk Drome</b>: <i>3v3 Advanced Apprentice Armies Only - <b>ALL SETS</b></i>\n<ul><li>Ulmar’s Projector\n<li>Mount Pillar Reservoir: Neth’uar\'s Foothold\n<li>Scout\'s Strike\n<li>Hunter’s Lure\n<li>Lanker\n<li>Pranker Tanker\n<li>Lore: High Muge of the Hive\n<li>Enre-Hep: High Muge of the Desert\n<li>Son’las\n<li>Saand\n<li>Gintanai: The Forgotten\n<li>Lyssta\n<li>Ijahni Outpost\n<li>Iparu: Metallic Ally\n<li>Vlar\n<li>Tarin\n<li>Grantkae: Mipedian General\n<li>Agitos: Eloquent Motivator</ul></li><li><b>Oron Drome</b>:<i> All sets 6v6 Advanced Apprentice Armies Only</i>\n<ul><li><b>Siril\'ean the Songthief\n<li>Calling of Aa\'une</b>\n<li>H\'earring: Tainted\n<li>Song of Deflection\n<li>Scout’s Strike\n<li>Momental Virtuosity\n<li>Elemental Denial\n<li>Serenade of Subordinance\n<li>Hive Unsung\n<li>Switch Riff\n<li>Pranker Tanker\n<li>Lore: High Muge of the Hive\n<li>Enre-Hep: High Muge of the Desert\n<li>Son’las\n<li>Interlude of Interruption\n<li>Bonding Battlesong\n<li>Skeletal Springs\n<li>Wytod\n<li>Hunter’s Lure\n<li>Zapetur\n<li>Lanker\n<li>Hymn of Teleportation\n<li>Void Dirge\n<li>Song of the Dyad\n<li>Strain of Ash\n<li>Bonding battlesong\n<li>Armament Adagio\n<li>Alluring Bait\n<li>Okaxor\n<li>Kreaal\n<li>Lyssta\n<li>Tomugar\n<li>Chaac\n<li>Ihun’kalin\n<li>Saand\n<li>Milla’iin\n<li>The Heart Of The Jungle\n<li>Interlude of Interruption\n<li>Ijahni Outpost\n<li>Specific Diminishing\n<li>Tarin\n<li>Vlar\n<li>Iparu: Metallic Ally\n<li>Agitos: Eloquent Motivator\n<li>Armament Alteration Anthem\n<li>Em’swa\n<li>Grantkae: Mipedian General\n<li>Glacier Plains: M’arrillian Heat Cannon\n<li>Gintanai: the Forgotten\n<li>Illusion Glissando</ul></li><li><b>Starter Drome</b>: <i>3v3 Advanced Apprentice</i>\n<ul><li><b>All Cards disabled except for the ones mentioned <A Href="https://web.archive.org/web/20110701163417/http://community.chaoticgame.com/forum/Topic2143707-5-1.aspx" target="_blank">here</A>.</b></ul></li><li><b>Crellan Drome</b>: <i>6v6 Master Rules Armies - ALL SETS</i>\n<ul><li><b>Siril\'ean the Songthief\n<li>Calling of Aa\'une</b>\n<li>Song of Deflection\n<li>H\'earring: Tainted\n<li>Scout’s Strike\n<li>Momental Virtuosity\n<li>Elemental Denial\n<li>Serenade of Subordinance\n<li>Hive Unsung\n<li>Switch Riff\n<li>Pranker Tanker\n<li>Lore: High Muge of the Hive\n<li>Enre-Hep: High Muge of the Desert\n<li>Son’las\n<li>Interlude of Interruption\n<li>Bonding Battlesong\n<li>Skeletal Springs\n<li>Wytod\n<li>Hunter’s Lure\n<li>Zapetur\n<li>Lanker\n<li>Hymn of Teleportation\n<li>Void Dirge\n<li>Song of the Dyad\n<li>Strain of Ash\n<li>Bonding battlesong\n<li>Armament Adagio\n<li>Alluring Bait\n<li>Okaxor\n<li>Kreaal\n<li>Lyssta\n<li>Tomugar\n<li>Chaac\n<li>Ihun’kalin\n<li>Saand\n<li>Milla’iin\n<li>The Heart Of The Jungle\n<li>Interlude of Interruption\n<li>Ijahni Outpost\n<li>Specific Diminishing\n<li>Tarin\n<li>Vlar\n<li>Iparu: Metallic Ally\n<li>Agitos: Eloquent Motivator\n<li>Armament Alteration Anthem\n<li>Em’swa\n<li>Grantkae: Mipedian General\n<li>Glacier Plains: M’arrillian Heat Cannon\n<li>Gintanai: the Forgotten\n<li>Illusion Glissando</ul></li></ul></li>Remember - if one of the above Disabled cards are in your armies (in the Drome where it is disabled) then that army will not show up as a selectable army.<br>\n<br>\nWe hope you enjoy the new season of the Battledrome Leagues!  As always, keep an eye on the <A Href="https://web.archive.org/web/20110701163417/http://community.chaoticgame.com/forum/Forum5-1.aspx" target="_blank">Announcements and News</A> section!';
+
+function GetMegaRoarPost(target, postNumber, contentID)
+{
+    document.getElementById('ReadMoreBtn'+postNumber).style.display='none';
+    if (postNumber == 1 && MegaRoar_PreLoad.length != 13)
+    {
+        document.getElementById(target).innerHTML=MegaRoar_PreLoad;
+        return;
+    }
+    var callAjax = new loadXMLDoc('MegaRoarArchives.aspx','GetBlogPostContent='+contentID, target, MegaRoar_HandleResults, MegaRoar_HandleError);
+    callAjax.sendRequest();
+}
+
+function MegaRoar_HandleResults(resultDest, results, params, ajaxObject) 
+{
+    try {
+        document.getElementById(resultDest).innerHTML=results;
+    }
+    catch(Error) {}
+}
+
+function MegaRoar_HandleError(resultDest, params, ajaxObject) 
+{
+    try {
+        document.getElementById(resultDest).innerHTML='Request for '+resultDest+' data failed:\n'+ajaxObject.errorText;
+    }
+    catch (Error) {}
+}
+</script><script type="text/javascript">
+var browser = navigator.appName;
+var b_version = navigator.appVersion;
+var version = parseFloat( b_version );
+var is_explorer7 = false;
+var is_explorer8 = false;
+var position = b_version.indexOf( "MSIE 7.");
+var position2 = b_version.indexOf("MSIE 8.");
+if( position != -1 ){
+	is_explorer7 = true;
+	}
+if( position2 != -1 ){
+	is_explorer8 = true;
+	}
+if ( browser == "Microsoft Internet Explorer" ){
+	if ( version >= 5.5 || is_explorer7 || is_explorer8 ){
+		// alert("Your browser is good enough!" + version );
+	}else{
+		alert("Your browser is not good enough!\n Your version:" + version + ' has to be upgraded to view this site.\nYou will be redirected to the site where you can upgrade your browser' );
+		location = 'https://web.archive.org/web/20110701163417/http://www.microsoft.com/windows/downloads/ie/getitnow.mspx';
+	}
+}
+</script><link href="/web/20110701163417cs_/http://www.chaoticgame.com/Styles/lightwindow.css" rel="stylesheet" type="text/css"/>
+<link href="/web/20110701163417cs_/http://www.chaoticgame.com/Styles/flash.css" rel="stylesheet" type="text/css"/><link rel="shortcut icon" href="/web/20110701163417im_/http://www.chaoticgame.com/favicon.ico" type="image/x-icon"></head>
+<body><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1494891701.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1494891701.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1494891701.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1494891701.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  min-width:800px !important;
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;width:100%!important">
+<div id="wm-ipp-inside">
+  <table style="width:100%;">
+    <tbody>
+      <tr>
+	<td id="wm-logo">
+	  <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+	</td>
+	<td class="c">
+	  <table style="margin:0 auto;">
+	    <tbody>
+	      <tr>
+		<td class="u" colspan="2">
+		  <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://www.chaoticgame.com/?ABCDEFGH" style="width:400px;" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20110701163417" /><input type="submit" value="Go" /></form>
+		</td>
+		<td class="n" rowspan="2">
+		  <table>
+		    <tbody>
+		      <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		      <tr class="m">
+			<td class="b" nowrap="nowrap">Jun</td>
+			<td class="c" id="displayMonthEl" title="You are here: 16:34:17 Jul 01, 2011">JUL</td>
+			<td class="f" nowrap="nowrap"><a href="https://web.archive.org/web/20130628201123/http://www.chaoticgame.com/?ABCDEFGH" title="28 Jun 2013"><strong>Jun</strong></a></td>
+		      </tr>
+		      <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		      <tr class="d">
+			<td class="b" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_prv_off.png" alt="Previous capture" width="14" height="16" border="0" /></td>
+			<td class="c" id="displayDayEl" style="width:34px;font-size:24px;" title="You are here: 16:34:17 Jul 01, 2011">01</td>
+			<td class="f" nowrap="nowrap"><a href="https://web.archive.org/web/20130628201123/http://www.chaoticgame.com/?ABCDEFGH" title="20:11:23 Jun 28, 2013"><img src="/static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a></td>
+		      </tr>
+		      <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		      <tr class="y">
+			<td class="b" nowrap="nowrap">2010</td>
+			<td class="c" id="displayYearEl" title="You are here: 16:34:17 Jul 01, 2011">2011</td>
+			<td class="f" nowrap="nowrap"><a href="https://web.archive.org/web/20130628201123/http://www.chaoticgame.com/?ABCDEFGH" title="28 Jun 2013"><strong>2013</strong></a></td>
+		      </tr>
+		    </tbody>
+		  </table>
+		</td>
+	      </tr>
+	      <tr>
+		<td class="s">
+		  		  <div id="wm-nav-captures">
+		    		    <a class="t" href="/web/20110701163417*/http://www.chaoticgame.com/?ABCDEFGH" title="See a list of every capture for this URL">2 captures</a>
+		    <div class="r" title="Timespan for captures of this URL">01 Jul 2011 - 28 Jun 2013</div>
+		    </div>
+		</td>
+		<td class="k">
+		  <a href="" id="wm-graph-anchor">
+		    <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		      <canvas id="wm-sparkline-canvas" width="550" height="27" border="0"></canvas>
+		    </div>
+		  </a>
+		</td>
+	      </tr>
+	    </tbody>
+	  </table>
+	</td>
+	<td class="r">
+	  <a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20110701163417/http://www.chaoticgame.com/?ABCDEFGH', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="top: 4px; right: 16px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	  <a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20110701163417/http://www.chaoticgame.com/?ABCDEFGH&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="bottom:14px;right:16px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+	  <a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="bottom:14px;right:5px;padding-right:0;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	  <a href="#close" onclick="__wm.h(event);return false;" style="top:-2px;right:0;padding-right:0;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+	  <a id="wm-expand" class="wm-btn" href="#expand" onclick="__wm.ex(event);return false;"><span class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+	</td>
+      </tr>
+    </tbody>
+  </table>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none;">
+            <div style="background-color:#353535;color:#aaa;font-weight:bold;text-align:center;"><a class="wm-selector selected" href="javascript:void(0)">COLLECTED BY</a></div>
+    <div style="padding:3px;position:relative;">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/webwidecrawl);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/webwidecrawl" target="_new"><span class="wm-title">Internet Archive</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  The Internet Archive discovers and captures web pages through many different web crawls.
+
+At any given time several distinct crawls are running, some for months, and some every day or longer.
+
+View the web archive through the <a href="http://archive.org/web/web.php">Wayback Machine</a>.
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/liveweb)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/liveweb" target="_new"><span class="wm-title">Live Web Proxy Crawls</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Content crawled via the <a href="http://archive.org/web/web.php">Wayback Machine</a> Live Proxy mostly by the Save Page Now feature on web.archive.org.
+<br /><br />
+Liveweb proxy is a component of Internet Archive�s wayback machine project. The liveweb proxy captures the content of a web page in real time, archives it into a ARC or WARC file and returns the ARC/WARC record back to the wayback machine to process. The recorded ARC/WARC file becomes part of the wayback machine in due course of time.
+<br /><br />
+	</div>
+	      </div>
+    </div></div></div></div></div><script type="text/javascript">
+__wm.bt(550,27,25,2,"web","http://www.chaoticgame.com/?ABCDEFGH","2011-07-01",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+<div class="fix-pgBkgrnd-repeat-x">
+    <div class="fix-img-bkgrnd_05"></div>
+</div>
+	<div class="pgBkgrnd-repeat-x">
+    	    <div class="img-bkgrnd">
+        	<div class="content-wrap">
+<div class="header" style="margin-top:10px;">
+              	<div id="nav">
+		<script language="javascript">
+		<!--
+			if (AC_FL_RunContent == 0 || DetectFlashVer == 0) {
+				alert("This page requires AC_RunActiveContent.js.");
+			} else {
+				var hasRightVersion = DetectFlashVer(requiredMajorVersion, requiredMinorVersion, requiredRevision);
+				if(hasRightVersion) {  // if we've detected an acceptable version
+	
+					AC_FL_RunContent(
+						'codebase', 'https://web.archive.org/web/20110701163417/http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0',
+						'width', '950',
+						'height', '145',
+						'src', '/navigation_preloader',
+						'quality', 'high',
+						'pluginspage', 'https://web.archive.org/web/20110701163417/http://www.macromedia.com/go/getflashplayer',
+						'align', 'middle',
+						'play', 'true',
+						'loop', 'true',
+						'scale', 'showall',
+						'flashvars', 'theme=blue&language=english_us&skipIntro=false&centerOval=/nav/nav_center/logo.swf',
+						'wmode', 'transparent',
+						'bgcolor', '#666666',
+						'devicefont', 'false',
+						'id', 'navigation_preloader',
+						'name', 'navigation_preloader',
+						'menu', 'true',
+						'allowFullScreen', 'false',
+						'allowScriptAccess','sameDomain',
+						'movie', '/navigation_preloader',
+						'salign', ''
+						); //web.archive.org/web/20110701163417/http://end/ AC code
+				} else {  // flash is too old or we can't detect the plugin
+var alternateContent = '<!-- non flash version -->'
+				   + '<div class="zero-clear-line headerSpriteNav-wrap">'
+                   + '<ul id="unity-sprite-ENG">'
+                   + '<li id="unity-nav1-ENG"></li>'
+                   + '<li id="unity-nav2-ENG"><a href="javascript:ChangePage(\'collect\');" title=""><span>Collect</span></a></li>'
+                   + '<li id="unity-nav3-ENG"><a href="javascript:ChangePage(\'build\');" title=""><span>Build</span></a></li>'
+                   + '<li id="unity-nav4-ENG"><a href="javascript:ChangePage(\'trade\');" title=""><span>Trade</span></a></li>'
+                   + '<li id="unity-nav5-ENG"><a href="javascript:ChangePage(\'centerOval\');" title=""><span>Home</span></a></li>'
+                   + '<li id="unity-nav6-ENG"><a href="javascript:ChangePage(\'forum\');" title=""><span>Forums</span></a></li>'
+                   + '<li id="unity-nav7-ENG"><a href="javascript:ChangePage(\'portal\');" title=""><span>Portal</span></a></li>'
+                   + '<li id="unity-nav8-ENG"><a href="javascript:ChangePage(\'playNow\');" title=""><span>Play</span></a></li>'
+                   + '<li id="unity-nav9-ENG"></li>'
+                   + '</ul>'
+                   + '<ul id="unityETC-sprite-ENG">'
+                   + '<li id="unity-nav10-ENG"><a href="javascript:ChangePage(\'enterTheCode\');" title=""><span>Enter the Code</span></a></li>'
+                   + '</ul>'
+                   + ' </div>';
+					document.write(alternateContent);  // insert non-flash content
+				}
+			}
+			// -->
+		</script>
+	</div>
+              </div>
+<div class="login-bar">
+  <form id="login" name="loginForm" action="#" method="post">
+                    	<div class="login-repeat-x">
+                        	<div class="login-bkgrnd-left">
+                            	<div class="login-bkgrnd-right">
+                                	<div class="login-left">
+                                    	<em><strong>Login</strong></em>
+                                    </div>
+                                    <div class="login-center">
+                                   	  <div class="login-center-repeat-x">
+                                        	<div class="login-center-bkgrnd-left">
+                                            	<div class="login-center-bkgrnd-right">
+                                           		  <div class="login-form">
+                                                  		<div id="username">
+                                                            <label for="username-field" class="overlabel">Username</label>
+                                                            <input id="username-field" class="form-login" type="text" name="username" title="Username" value=""/>
+                                                        </div>
+                                                        <div id="password">
+                                                            <!--<label for="password-field" class="overlabel">Password</label>
+                                                            <input id="password-field" class="form-login" type="password" name="password" title="Password" value="" />
+ --> 
+<input type="text" id="mockpass" class="form-login" value=" Password" onfocus="document.getElementById('mockpass').style.display='none'; document.getElementById('password-field').style.display=''; document.getElementById('password-field').focus();">
+                            <input type="password" name="password" id="password-field" class="form-login" title="Password" style="display: none;" onblur="if(this.value=='') {document.getElementById('mockpass').style.display=''; document.getElementById('password-field').style.display='none';}">
+                                                        </div>
+                                                        <div id="remember">
+                                                            <input name="checkedremember" type="checkbox" value="remember"/>
+                                                        </div>
+                                                        <div id="remember-me">
+                                                            Remember Me
+                                                        </div>
+                                                      <div id="login-links">
+                                                   		  <a href="RemindMe.aspx" title="">Retrieve Account Info</a> | 
+                                                         
+                                                          <a href="Registration.aspx" title="">Register A New Account</a>
+                                                      </div>
+                                                  </div>
+                                                </div>
+                                            </div>
+                                      </div>
+                                    </div>
+                                    <div class="login-right">
+                 <input name="loginBtn" class="button" type="submit" value="Login"/>
+                                  </div>
+                                </div>
+                            </div>
+                        </div>
+                    </form>              </div>
+
+<div class="content" style="display: none">
+    <div class="pods-wrap" id="display-message">
+        <div class="pods-top-wrap">
+            <div class="new-pods-top-left2">
+                <div class="new-pods-top-left-repeat-x">
+                </div>
+            </div>
+            <div class="pods-top-right2">
+                <div class="pods-top-right-repeat-x2">
+                </div>
+            </div>
+        </div>
+        <div class="pods-content">
+            <div class="pods-content-left-repeat-y">
+                <div class="pods-content-right-repeat-y">
+                    <div style="margin: 12px;">
+                        [LOGINMESSAGE]</div>
+                </div>
+            </div>
+        </div>
+        <div class="pods-footer-wrap">
+            <div class="pods-footer-left">
+                <div class="pods-footer-left-repeat-x2">
+                </div>
+            </div>
+            <div class="pods-footer-right">
+                <div class="pods-footer-right-repeat-x2">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+                             <!-- Flash Placeholder -->
+           	  	<div class="flash">
+                <div id="feature">
+		<script language="javascript">
+		<!--
+			if (AC_FL_RunContent == 0 || DetectFlashVer == 0) {
+				alert("This page requires AC_RunActiveContent.js.");
+			} else {
+				var hasRightVersion = DetectFlashVer(requiredMajorVersion, requiredMinorVersion, requiredRevision);
+				if(hasRightVersion) {  // if we've detected an acceptable version
+	
+					AC_FL_RunContent(
+						'codebase', 'https://web.archive.org/web/20110701163417/http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0',
+						'width', '975',
+						'height', '457',
+						'src', 'feature_preloader',
+						'quality', 'high',
+						'pluginspage', 'https://web.archive.org/web/20110701163417/http://www.macromedia.com/go/getflashplayer',
+						'align', 'middle',
+						'play', 'true',
+						'loop', 'true',
+						'scale', 'showall',
+						'flashvars', 'theme=blue&language=english_us&loggedIn=false',
+						'wmode', 'transparent',
+						'devicefont', 'false',
+						'id', 'feature_preloader',
+						'name', 'feature_preloader',
+						'menu', 'true',
+						'allowFullScreen', 'false',
+						'allowScriptAccess','sameDomain',
+						'movie', 'feature_preloader',
+						'salign', ''
+						); //web.archive.org/web/20110701163417/http://end/ AC code
+				} else {  // flash is too old or we can't detect the plugin
+					var alternateContent = '<!-- non flash version -->'
+						+ '<div id="noFlashFeature">'
+						+ '	<div id="playNow" onclick="javascript:ChangePage(\'playNow\');"><a href="javascript:;"><img src="images/spacer.gif" width="130" height="180"></a></div>'
+						+ '	<div id="register"onclick="javascript:ChangePage(\'register\');"><a href="javascript:;"><img src="images/spacer.gif" width="160" height="180"></a></div>'
+						+ '	<div id="buyOnline" onclick="javascript:ChangePage(\'buyOnline\');"><a href="javascript:;"><img src="images/spacer.gif" width="130" height="180"></a></div>'
+						+ '</div>';
+					document.write(alternateContent);  // insert non-flash content
+				}
+			}
+			// -->
+		</script>
+	</div>
+                </div>
+
+
+	            <!-- Content -->
+                 <div class="content">
+	             	<!-- Left Column -->
+                    <div class="left-column">
+                       <div class="full-width clear-line" style="margin-bottom:5px;">
+<div class="adPod-top-wrap">
+    <div class="adPod-topleft">
+        <div class="adPod-topLeft-repeat-x">
+        </div>
+    </div>
+    <div class="adPod-topright">
+        <div class="adPod-topRight-repeat-x">
+        </div>
+    </div>
+</div>
+<div class="adsBody-wrap">
+    <div class="adPod-left-repeat-y">
+        <div class="adPod-right-repeat-y">
+            <div class="adsBody-margin">
+                <ul id="ads-sprite-nav">
+  <li id="ads-18">
+                        <a href="https://web.archive.org/web/20110701163417/http://www.cartoonnetwork.com/schedule/index.html" target="_blank" title="Cartoon Network">
+                          <span style="font:20px Verdana, Arial, Helvetica, sans-serif bold; margin-left:80px; line-height:18px; top:15px; position:relative;">
+                            <span style="margin-bottom:10px;"><strong><em>Watch CN<br/></em></strong></span>
+                            <span style="margin-left:80px;"><strong><em>Mon. - Sat.</em></strong></span>
+                          </span>
+                        </a>
+                      </li>
+                  <li id="ads-03">
+                        <a href="https://web.archive.org/web/20110701163417/http://download.chaoticgame.com/4kidsgame/tutorial/index.html" target="_blank" title="Game Tutorial!">
+                          <span style="font:20px Verdana, Arial, Helvetica, sans-serif bold; margin-left:80px; line-height:18px; top:10px; position:relative;">
+                            <span style="margin-bottom:10px;"><strong><em>Game <br/></em></strong></span>
+                            <span style="margin-left:80px;"><strong><em>Tutorial</em></strong></span>
+                          </span>
+                          <span class="clear-line" style="font:9px Verdana, Arial, Helvetica, sans-serif bold; margin-left:80px; line-height:16px; top:10px; position:relative;">
+                            <strong><em>The Interactive Tutorial</em></strong>
+                          </span>
+                        </a>
+                      </li>
+
+  <li id="ads-04">
+                        <a href="https://web.archive.org/web/20110701163417/http://www.tcdent.com/locations.php?type=2" target="_blank" title="Store Locator">
+                          <span style="font:20px Verdana, Arial, Helvetica, sans-serif bold; margin-left:80px; line-height:18px; top:15px; position:relative;">
+                            <span style="margin-bottom:10px;"><strong><em>Store <br/></em></strong></span>
+                            <span style="margin-left:80px;"><strong><em>Locator</em></strong></span>
+                          </span>
+                        </a>
+                      </li>
+  <li id="ads-12">
+                        <a href="https://web.archive.org/web/20110701163417/http://disney.go.com/disneyxd/#/disneyxd/shows/chaotic/" target="_blank" title="DisneyXD">
+                          <span style="font:20px Verdana, Arial, Helvetica, sans-serif bold; margin-left:80px; line-height:18px; top:15px; position:relative;">
+                            <span style="margin-bottom:10px;"><strong><em>Watch<br/></em></strong></span>
+                            <span style="margin-left:80px;"><strong><em>Chaotic</em></strong></span>
+                          </span>
+                        </a>
+                      </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="adPod-btm-wrap">
+    <div class="adPod-btmleft">
+        <div class="adPod-btmLeft-repeat-x">
+        </div>
+    </div>
+    <div class="adPod-btmright">
+        <div class="adPod-btmRight-repeat-x">
+        </div>
+    </div>
+</div>
+</div>
+                       <!-- Left Column -->       
+
+                    	<div class="pods-wrap">
+                       	  <div class="pods-top-wrap">
+                            	<div class="pods-topRnd-left">
+                                	<div class="pods-topRnd-left-repeat-x"></div>
+                                </div>
+                                <div class="pods-topRnd-right">
+                                	<div class="pods-topRnd-right-repeat-x">
+                                    	<div class="pods-top-center-divide">
+                                        	<div class="pod-heading6"><em><strong>Sneak </strong>Preview</em></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="pods-content">
+                            	<div class="pods-content-left-repeat-y">
+                            		<div class="pods-content-right-repeat-y">
+                                		<center><img src="/web/20110701163417im_/http://www.chaoticgame.com/images/3_2-Chaotic-Preview-2.jpg"></center>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="pods-footer-wrap">
+                            	<div class="pods-footer-left">
+                                	<div class="pods-footer-left-repeat-x"></div>
+                                </div>
+                                <div class="pods-footer-right">
+                                	<div class="pods-footer-right-repeat-x"></div>
+                                </div>
+                            </div>
+                        </div>
+<div align="middle"><img src="/web/20110701163417im_/http://www.chaoticgame.com/Images/blank.gif" height="5"><br>
+<img src="/web/20110701163417im_/http://www.chaoticgame.com/Images/ESRB-E.jpg"><br>Fantasy Violence
+</div>                      
+                    </div>
+                    <!-- Center Column -->
+                    <div class="center-column">
+                     <div class="pods-wrap pad5px-btm">
+    <div class="full-width clear-line">
+      <div class="heading-left2">
+        <div class="heading-left-repeat-x3">
+            <div class="content-heading"></div>
+        </div>
+      </div>
+      <div class="content-heading-base-repeat-x2">
+          <div class="heading-center-rises3">
+              <div class="heading-center-rises4">
+                <div class="content-heading adjust-center-heading4"><em><strong>Mega</strong> Roar</em></div>
+              </div>
+          </div>
+      </div>
+      <div class="heading-right2">
+          <div class="heading-right-repeat-x3">
+          	<div class="adjustArchiveBtn">
+                    <div class="view-archive">
+                           	<div>
+                               	<div class="view-archive-btn">
+                                   	<div>
+                                       	<a href="MegaRoarArchives.aspx" title=""><span><strong>View Archives</strong></span></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+          </div>
+      </div>
+    </div>
+    <!-- Intro Content Area -->
+    <div class="content-area-repeat-xy">
+      <div class="content-area-left-repeat-y">
+        <div class="content-area-right-repeat-y">
+          <div class="content-area-top-repeat-x">
+            <div class="content-area-top-left">
+              <div class="content-area-top-right">
+                <!-- Start Accordian Here -->
+                <div id="container">
+                  <div id="vertical_container">
+                     <div class="accordion_toggle">
+  <div>
+    <div>
+      <div class="accordion_toggle_heading">
+        <div class="clear-line full-width">
+          <span class="heading"><strong>Online Battledrome League Rewards for August 2010 - Part 2!</strong></span>
+          <span class="posted-by-toggle">
+            <span class="date2">8/25/2010</span>
+            <span class="poster-name2">Blargers</span>
+            <span class="posted-heading2">By:</span>
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion_content">
+  <div class="accordion_content_left_repeat-y">
+    <div class="accordion_content_right_repeat-y">
+      <div class="accordion_content_top_repeat-x">
+        <div class="accordion_content_top_left">
+          <div class="accordion_content_top_right">
+            <div id="accordionPost1" class="pad-accordian-content initalCroppedContent">
+                Hello Chaotic® Beta Community!  Part 2 of the August season of the Online Battledrome Leagues has concluded.<br>
+<br>
+<b>Click READ MORE for all the details or VIEW ARCHIVES for all of our announcements!</b>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="accordion_content_btm">
+    <div class="accordion_content_btm_left">
+      <div class="accordion_content_btm_right"></div>
+    </div>
+  </div>
+  <div class="trade-search" style=" margin-left:2px; overflow:hidden;">
+    <div id="ReadMoreBtn1" class="read-more" style="margin:8px 10px 8px 0; float:right;">
+    	<div>
+        	<div class="read-more-btn">
+            	<div>
+                	<a href="javascript:;" onclick="GetMegaRoarPost('accordionPost1', 1,216);"><span><strong>Read More &raquo;</strong></span></a>
+                </div>
+            </div>
+        </div>
+     </div>
+  </div>
+</div><div class="accordion_toggle">
+  <div>
+    <div>
+      <div class="accordion_toggle_heading">
+        <div class="clear-line full-width">
+          <span class="heading"><strong>Online Battledrome League Rewards for August 2010 - Part 1!</strong></span>
+          <span class="posted-by-toggle">
+            <span class="date2">8/10/2010</span>
+            <span class="poster-name2">Blargers</span>
+            <span class="posted-heading2">By:</span>
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion_content">
+  <div class="accordion_content_left_repeat-y">
+    <div class="accordion_content_right_repeat-y">
+      <div class="accordion_content_top_repeat-x">
+        <div class="accordion_content_top_left">
+          <div class="accordion_content_top_right">
+            <div id="accordionPost2" class="pad-accordian-content initalCroppedContent">
+                Hello Chaotic® Beta Community!  Part 1 of the August season of the Online Battledrome Leagues has concluded.<br>
+<br>
+<b>Click READ MORE to see all the details or VIEW ARCHIVES for all announcements!</b>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="accordion_content_btm">
+    <div class="accordion_content_btm_left">
+      <div class="accordion_content_btm_right"></div>
+    </div>
+  </div>
+  <div class="trade-search" style=" margin-left:2px; overflow:hidden;">
+    <div id="ReadMoreBtn2" class="read-more" style="margin:8px 10px 8px 0; float:right;">
+    	<div>
+        	<div class="read-more-btn">
+            	<div>
+                	<a href="javascript:;" onclick="GetMegaRoarPost('accordionPost2', 2,213);"><span><strong>Read More &raquo;</strong></span></a>
+                </div>
+            </div>
+        </div>
+     </div>
+  </div>
+</div><div class="accordion_toggle">
+  <div>
+    <div>
+      <div class="accordion_toggle_heading">
+        <div class="clear-line full-width">
+          <span class="heading"><strong>The new Starter Drome is now live!</strong></span>
+          <span class="posted-by-toggle">
+            <span class="date2">7/27/2010</span>
+            <span class="poster-name2">Blargers</span>
+            <span class="posted-heading2">By:</span>
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion_content">
+  <div class="accordion_content_left_repeat-y">
+    <div class="accordion_content_right_repeat-y">
+      <div class="accordion_content_top_repeat-x">
+        <div class="accordion_content_top_left">
+          <div class="accordion_content_top_right">
+            <div id="accordionPost3" class="pad-accordian-content initalCroppedContent">
+                Hello Chaotic Community!  The new <b>Starter Drome</b> is now live in the Online Battledromes!!<br>
+<br>
+<b>Click READ MORE full all the details (including a full list of allowed cards) or VIEW ARCHIVES for all announcements!</b>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="accordion_content_btm">
+    <div class="accordion_content_btm_left">
+      <div class="accordion_content_btm_right"></div>
+    </div>
+  </div>
+  <div class="trade-search" style=" margin-left:2px; overflow:hidden;">
+    <div id="ReadMoreBtn3" class="read-more" style="margin:8px 10px 8px 0; float:right;">
+    	<div>
+        	<div class="read-more-btn">
+            	<div>
+                	<a href="javascript:;" onclick="GetMegaRoarPost('accordionPost3', 3,204);"><span><strong>Read More &raquo;</strong></span></a>
+                </div>
+            </div>
+        </div>
+     </div>
+  </div>
+</div><div class="accordion_toggle">
+  <div>
+    <div>
+      <div class="accordion_toggle_heading">
+        <div class="clear-line full-width">
+          <span class="heading"><strong>Online Battledrome League Rewards for July 2010 - Part 2!</strong></span>
+          <span class="posted-by-toggle">
+            <span class="date2">7/27/2010</span>
+            <span class="poster-name2">Blargers</span>
+            <span class="posted-heading2">By:</span>
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion_content">
+  <div class="accordion_content_left_repeat-y">
+    <div class="accordion_content_right_repeat-y">
+      <div class="accordion_content_top_repeat-x">
+        <div class="accordion_content_top_left">
+          <div class="accordion_content_top_right">
+            <div id="accordionPost4" class="pad-accordian-content initalCroppedContent">
+                Hello Chaotic® Beta Community!  Part 2 of the July season of the Online Battledrome Leagues has concluded.<br>
+<br>
+<b>Click READ MORE for all the details or VIEW ARCHIVES for all announcements!</b>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="accordion_content_btm">
+    <div class="accordion_content_btm_left">
+      <div class="accordion_content_btm_right"></div>
+    </div>
+  </div>
+  <div class="trade-search" style=" margin-left:2px; overflow:hidden;">
+    <div id="ReadMoreBtn4" class="read-more" style="margin:8px 10px 8px 0; float:right;">
+    	<div>
+        	<div class="read-more-btn">
+            	<div>
+                	<a href="javascript:;" onclick="GetMegaRoarPost('accordionPost4', 4,205);"><span><strong>Read More &raquo;</strong></span></a>
+                </div>
+            </div>
+        </div>
+     </div>
+  </div>
+</div><div class="accordion_toggle">
+  <div>
+    <div>
+      <div class="accordion_toggle_heading">
+        <div class="clear-line full-width">
+          <span class="heading"><strong>Announcing the Ultimate Guide to All Things Chaotic!</strong></span>
+          <span class="posted-by-toggle">
+            <span class="date2">7/27/2010</span>
+            <span class="poster-name2">Blargers</span>
+            <span class="posted-heading2">By:</span>
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="accordion_content">
+  <div class="accordion_content_left_repeat-y">
+    <div class="accordion_content_right_repeat-y">
+      <div class="accordion_content_top_repeat-x">
+        <div class="accordion_content_top_left">
+          <div class="accordion_content_top_right">
+            <div id="accordionPost5" class="pad-accordian-content initalCroppedContent">
+                Hi Chaotic Community!  We're excited to announce the <b>Ultimate Guide to All Things Chaotic</b>!<br>
+<br>
+<b>Click READ MORE for all the details or VIEW ARCHIVES for all announcements!</b>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="accordion_content_btm">
+    <div class="accordion_content_btm_left">
+      <div class="accordion_content_btm_right"></div>
+    </div>
+  </div>
+  <div class="trade-search" style=" margin-left:2px; overflow:hidden;">
+    <div id="ReadMoreBtn5" class="read-more" style="margin:8px 10px 8px 0; float:right;">
+    	<div>
+        	<div class="read-more-btn">
+            	<div>
+                	<a href="javascript:;" onclick="GetMegaRoarPost('accordionPost5', 5,206);"><span><strong>Read More &raquo;</strong></span></a>
+                </div>
+            </div>
+        </div>
+     </div>
+  </div>
+</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="content-btm-wrap">
+      <div class="content-area-btm-left">
+        <div class="content-left-btm-repeat-x"></div>
+      </div>
+      <div class="content-area-btm-right">
+        <div class="content-right-btm-repeat-x"></div>
+      </div>
+    </div>
+</div>
+
+<div class="pods-wrap pad5px-btm">
+    <div class="clear-line full-width">
+        <div class="adPod-top-wrap">
+            <div class="videoAdPod-topleft">
+                <div class="videoAdPod-topLeft-repeat-x">
+                </div>
+            </div>
+            <div class="videoAdPod-topright">
+                <div class="videoAdPod-topRight-repeat-x">
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="content-area-repeat-xy">
+        <div class="content-area-top-repeat-x">
+            <div class="content-area-left-repeat-y">
+                <div class="content-area-right-repeat-y">
+                    <div style="margin: 0 8px 0 10px;">
+                        <div id="player"><object type="application/x-shockwave-flash" data="https://web.archive.org/web/20110701163417im_/http://www.ChaoticTV.com/embededVideoPlayer.swf" quality="high" width="374" height="305"><param name="movie" value="http://www.ChaoticTV.com/embededVideoPlayer.swf"/><param name="allowFullScreen" value="true"/><param name="FlashVars" value="file=http://www.ChaoticTV.com/uploads/IoJfdqs2SVzn52DdXsBX.flv&amp;recommendations=http://www.ChaoticTV.com/recommendations.php&amp;linktarget=_self&amp;width=374&amp;height=305&amp;displaywidth=374&amp;displayheight=285&amp;showstop=true&amp;overstretch=fit&amp;showfsbutton=false&amp;image=http://www.ChaoticTV.com/uploads/thumbs/IoJfdqs2SVzn52DdXsBX.jpg&amp;backcolor=0x000000&amp;frontcolor=0xc82424&amp;lightcolor=0xe50000&amp;screencolor=0x222222&amp;logo=http://www.ChaoticTV.com/templates/images/playerlogo/logo-small.png&amp;link=http://www.ChaoticTV.com&amp;autostart=true&amp;vidId=http://www.ChaoticTV.com/play.php?vid=561"/><param name="wmode" value="transparent"/><param name="allowScriptAccess" value="always"/></object></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="content-btm-wrap">
+        <div class="content-area-btm-left">
+            <div class="content-left-btm-repeat-x">
+            </div>
+        </div>
+        <div class="content-area-btm-right">
+            <div class="content-right-btm-repeat-x">
+            </div>
+        </div>
+    </div>
+</div>
+                        </div>
+                    <!-- Right Column -->
+                    <div class="right-column">
+                       <div class="full-width clear-line" style="margin-bottom:5px;">
+                            <div class="adPod-top-wrap">
+                                <div class="adPod-topleft">
+                                    <div class="adPod-topLeft-repeat-x"></div>
+                                </div>
+                                <div class="adPod-topright">
+                                    <div class="adPod-topRight-repeat-x"></div>
+                                </div>
+                            </div>
+                            <div class="adsBody-wrap">
+                                <div class="adPod-left-repeat-y">
+                                    <div class="adPod-right-repeat-y">
+                                      <div class="adsBody-margin">
+                                            <ul id="ads-sprite-nav2">
+                      <li id="ads-01">
+                        <a href="https://web.archive.org/web/20110701163417/http://battle.chaoticgame.com/" target="_blank" title="1v1 Chaotic Game Arcade!">
+                          <span style="font:20px Verdana, Arial, Helvetica, sans-serif bold; margin-left:80px; line-height:18px; top:15px; position:relative;">
+                            <span style="margin-bottom:10px;"><strong><em>1v1 Chaotic<br/></em></strong></span>
+                            <span style="margin-left:80px;"><strong><em>Game Arcade!</em></strong></span>
+                          </span>
+                        </a>
+                      </li>
+ 
+         <li id="ads-02">
+                                                	<a href="https://web.archive.org/web/20110701163417/http://tcdop.com/" target="_blank" title="TCDOP">
+     <span style="font:20px Verdana, Arial, Helvetica, sans-serif bold; margin-left:80px; line-height:18px; top:15px; position:relative;">
+                            <span style="margin-bottom:10px;"><strong><em>Tournaments <br/></em></strong></span>
+                            <span style="margin-left:80px;"><strong><em>&amp; Events</em></strong></span>
+                          </span>
+                        </a>
+                      </li>
+                                             
+                                                <li id="ads-09">
+<a href="Rules/pdf/EN_RuleBook3.0.pdf" target="_blank" title="PDF Rule Book">
+
+  <span style="font:20px Verdana, Arial, Helvetica, sans-serif bold; margin-left:80px; line-height:18px; top:15px; position:relative;">
+                            <span style="margin-bottom:10px;"><strong><em>PDF <br/></em></strong></span>
+                            <span style="margin-left:80px;"><strong><em>Rule Book</em></strong></span>
+                          </span>
+                                                    </a>
+                                                </li>
+<li id="ads-19">
+                        <a href="#" onclick="openWindow('https://web.archive.org/web/20110701163417/http://www.chaoticgame.com/facebook/FBLogin.aspx')" title="Login to facebook">
+                          <span style="font:20px Verdana, Arial, Helvetica, sans-serif bold; margin-left:80px; line-height:18px; top:15px; position:relative;">
+                            <span style="margin-bottom:10px;"><strong><em>Login to<br/></em></strong></span>
+                            <span style="margin-left:80px;"><strong><em>facebook</em></strong></span>
+                          </span>
+                        </a>
+                      </li>
+					  <script language="Javascript"> 
+<!-- 
+  // Function to open new window containing window_src, 100x400 
+ function openWindow(window_src) 
+  { 
+  var username = "";
+  var node = getElementsByClassNameTCD("logged-in", 0)[0];
+   if(node != undefined)
+   {
+      if(document.all)
+      {
+  	username = node.innerText;
+      }
+      else
+      {
+             username= node.textContent.substring(312);
+      }
+   }
+	username = username.substring(13, username.indexOf('Edit Profile'));
+	window_src = window_src + '?PlayerName=' + username;
+	
+    window.open(window_src, 'newwindow', config='height=625,width=850, toolbar=no, menubar=no, scrollbars=no, resizable=no,location=no,  directories=no, status=no'); 
+  }
+
+  function getElementsByClassNameTCD(classname, node)  {
+    if(!node) node = document.getElementsByTagName("body")[0];
+    var a = [];
+    var re = new RegExp('\\b' + classname + '\\b');
+    var els = node.getElementsByTagName("*");
+    for(var i=0,j=els.length; i<j; i++)
+   {
+        if(re.test(els[i].className))
+        {
+             a.push(els[i]);
+        }
+   }
+    return a;
+} 
+--> 
+</script>
+
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="adPod-btm-wrap">
+                                <div class="adPod-btmleft">
+                                    <div class="adPod-btmLeft-repeat-x"></div>
+                                </div>
+                                <div class="adPod-btmright">
+                                    <div class="adPod-btmRight-repeat-x"></div>
+                                </div>
+                            </div>
+                        </div>
+                       <!-- Right Column -->       
+
+                       	<div class="pods-wrap">
+                       	  <div class="pods-top-wrap">
+                            	<div class="pods-topRnd-left">
+                                	<div class="pods-topRnd-left-repeat-x"></div>
+                                </div>
+                                <div class="pods-topRnd-right">
+                                	<div class="pods-topRnd-right-repeat-x">
+                                    	<div class="pods-top-center-divide">
+                                        	<div class="pod-heading6"><em><strong>14 Day </strong>Leagues</em></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="pods-content">
+                            	<div class="pods-content-left-repeat-y">
+                            		<div class="pods-content-right-repeat-y"><center><a href="https://web.archive.org/web/20110701163417/http://chaoticgame.com/League.aspx"><img border="0" src="https://web.archive.org/web/20110701163417im_/http://ChaoticGame.com/images/NEW-14-day.jpg"></a></center>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="pods-footer-wrap">
+                            	<div class="pods-footer-left">
+                                	<div class="pods-footer-left-repeat-x"></div>
+                                </div>
+                                <div class="pods-footer-right">
+                                	<div class="pods-footer-right-repeat-x"></div>
+                                </div>
+                            </div>
+                        </div>           
+                     </div>
+                </div>
+                <div class="postback"></div>
+                <div class="debug"></div>
+<div class="footer-wrap">
+            <div class="footer-repeat-x">
+                <div class="footer-left">
+                    <div class="footer-right">
+                        <div class="footer-text">
+                            <div class="footer-search"></div>
+                            <div class="footer-nav">
+ <a href="javascript:;" title="" onclick="ChangePage('patch')">Patch Notes</a>
+|
+ <a href="javascript:;" title="" onclick="ChangePage('rules')">Rules</a>
+                                |
+                                 <a href="javascript:showLearnPage();">Learn</a>
+                                |
+                                <a href="javascript:;" title="" onclick="ChangePage('tutorial')">Tutorial</a>
+                                |
+                                <a href="javascript:;" title="" onclick="ChangePage('buyOnline')">Buy Cards</a>
+                                |
+                                <a href="javascript:;" title="" onclick="ChangePage('locate')">Store Locator</a>
+                                |
+                                <a href="javascript:;" title="" onclick="ChangePage('parentControls')">Parent Zone</a>
+                                
+                            </div>
+                            <div class="footer-language">
+                                <a href="javascript:showLanguageSelection();" class="page-options" title="Change Language"><img src="/web/20110701163417im_/http://www.chaoticgame.com/Images/flag_usa_.gif" alt="English (Change Language)" width="40" height="27"/><br/>
+                                English (Change Language)</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+setTimeout(function(){ var url = "http" + (/^https:/.test(document.location.href) ? "s" : "") + "://web.archive.org/web/20110701163417/http://beacon.scorecardresearch.com/scripts/beacon.dll" + "?c1=2&c2=6035356&c3=&c4=&c5=&c6=&c7=" + escape(document.location.href) + "&c8=" + escape(document.title) + "&c9=" + escape(document.referrer) + "&c10=" + escape(screen.width+'x'+screen.height) + "&rn=" + (new Date()).getTime(); var i = new Image(); i.src = url; }, 1);
+</script>
+<noscript>
+<img src="https://web.archive.org/web/20110701163417im_/https://beacon.scorecardresearch.com/scripts/beacon.dll?c1=2&amp;c2=6035356&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=&amp;x=NOJAVASCRIPT" alt=""/>
+</noscript>
+<!-- End comScore Tag -->
+        </div>
+<div class="copyright">              <a href="TermsAndConditions.aspx" title="">Terms And Conditions</a>              |              <a href="PrivacyPolicy.aspx" title="">Privacy Policy</a>              <br/>              ©2008 4Kids Entertainment, Inc. and Chaotic USA Entertainment Group, Inc. Chaotic
+            is a registered trademark of Home Focus Development Limited.              <br/>U.S. Pat 5810666 and 5954332 and other pending patent applications. All Rights Reserved.  </div>      <div id="ajax_WorkingOuter" class="dimmed-overlay" style="display:none;"></div>   <div id="ajax_WorkingInner" class="overlay-loading" style="display:none;"><div class="overlay-loading-image"></div><br/><br/><br/><br/><br/><br/><br/>loading...</div>
+            </div>
+         </div>
+    </div>    
+</body><!-- LoginPage 20.002 --> <!-- Copyright 11.002 --> <!-- Footer 21.002 --> <!-- HeaderFlash 16.002 --> <!-- LeftHomeAd 11.002 --> <!-- MegaRoar 42.002 --> <!-- PageBackground 4.002 --> <!-- RightHomeAd 16.002 --> <!-- SeasonCard 6.002 --> <!-- TopRatedPlayers 24.002 --> </html>
